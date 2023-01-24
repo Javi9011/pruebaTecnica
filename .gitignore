@@ -1,0 +1,6 @@
+db.sqlite3
+bin
+include
+__pycache__
+lib/python3.10/site-packages
+lib64
